@@ -19,7 +19,7 @@ Renk ve matris seçimi
 *Histogram Eşitleme: Görüntünün kontrastını artırmak için kullanılır.
 *Region Growing Yöntemi: Görüntüde belirli bir bölgenin büyütülmesi için kullanılır.
 Gereksinimler
-*Python 3.x
-*OpenCV
-*NumPy
-*Matplotlib
+1-)Python 3.x
+2-)OpenCV
+3-)NumPy
+4-)Matplotlib
